@@ -1,0 +1,43 @@
+* {font: 100% Segoe UI}
+body{
+  margin: 0;
+}
+.bloques {
+  display: flex;
+  align-items: flex-start;
+}
+
+.bloque1{
+  background-color: #808080;
+  width: 25%;
+
+}
+.contenido{
+  padding-left: 15px;
+}
+.bloque2{
+  width: 75%;
+  background-color: #F8F8FF;
+  padding: 30px;
+}
+
+.fotoperfil{
+  width: 100%;
+  height: auto;
+}
+.diploma {
+  color: red;
+  text-align: left;
+}
+h2  {
+  font-weight: bold;
+  font-size: 24pt;
+
+}
+h3  {
+  font-weight: bold;
+  font-size: 15pt;
+}
+h1  {
+  font-size: 35pt;
+}
